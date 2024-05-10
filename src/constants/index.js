@@ -23,22 +23,22 @@ export const headerNav = [
 
 export const introText = {
     // title: "수혀니 ♡ 현창이",
-    title: "100",
-    desc: ["20230917", "100일", "♡"],
+    title: "portfolio",
+    desc: ["programer", "Park", "Hyunchang"],
 };
 
 export const skillText = [
     {
-        title: "20230604",
-        desc: "첫만남",
+        title: "나일소프트",
+        desc: "2017.09 ~ 2021.09",
     },
     {
-        title: "20230917",
-        desc: "since 20230610 ~ 20230917   100일",
+        title: "아이나비모빌리티",
+        desc: "2021.09 ~ 2021.11",
     },
     {
-        title: "오래오래",
-        desc: "많이많이",
+        title: "NHN다이퀘스트",
+        desc: "2021.11 ~ 2024.04",
     },
 ];
 

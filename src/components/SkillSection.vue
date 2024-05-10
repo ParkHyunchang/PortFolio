@@ -6,7 +6,7 @@ import { skillText } from "@/constants/index";
     <section id="skill">
         <div class="skill__inner">
             <h2 class="skill__title">
-                Challenge <em>나의 도전</em>
+                Challenge<em>이력</em>
             </h2>
             <div class="skill__desc">
                 <div v-for="(text, key) in skillText" :key="key">
